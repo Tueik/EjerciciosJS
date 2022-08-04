@@ -112,7 +112,7 @@ function areaRectangulo(b, a) {
     return resultado;
 }
 
-console.log(areaRectangulo(6, 3));
+// console.log(areaRectangulo(6, 3));
 
 
 function areaTriangulo(b, a) {
@@ -120,4 +120,25 @@ function areaTriangulo(b, a) {
     return resultado;
 }
 
-console.log( areaTriangulo(8, 4));
+// console.log( areaTriangulo(8, 4));
+
+
+
+
+
+// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+// Objeto
+
+const Conejo = {
+    "nombre": "Griselo",
+    "edad": 27,
+    "color": "Gris",
+    "peso": 500
+    
+}
+
+const myFunc = ( )  {
+
+
+}
